@@ -30,7 +30,7 @@
     //meta
     head() {
       return {
-        title: this.category.name + ' - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: this.category.name + ' - PT. Ekosistem Agro Sejahtera',
         meta: [{
             hid: 'og:title',
             name: 'og:title',

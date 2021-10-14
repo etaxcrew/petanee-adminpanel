@@ -65,7 +65,7 @@
     //meta
     head() {
       return {
-        title: 'Tambah User - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Tambah User - PT. Ekosistem Agro Sejahtera',
       }
     },
 

@@ -89,7 +89,7 @@
     //meta
     head() {
       return {
-        title: 'Edit Post - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Edit Post - PT. Ekosistem Agro Sejahtera',
       }
     },
 

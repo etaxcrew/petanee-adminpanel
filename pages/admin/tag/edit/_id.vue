@@ -49,7 +49,7 @@
     //meta
     head() {
       return {
-        title: 'Edit Tag - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Edit Tag - PT. Ekosistem Agro Sejahtera',
       }
     },
 

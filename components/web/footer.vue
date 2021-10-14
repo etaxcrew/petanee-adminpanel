@@ -24,7 +24,7 @@
       </b-container>
       <b-container fluid class="footer-bottom">
         <b-row class="p-3 justify-content-center">
-          <div class="text-white font-weight-bold"> Copyright © 2021 SANTRIKODING. All Rights
+          <div class="text-white font-weight-bold"> Copyright © 2021 PT. Ekosistem Agro Sejahtera. All Rights
             Reserved.
           </div>
         </b-row>

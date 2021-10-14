@@ -62,7 +62,7 @@
     //meta
     head() {
       return {
-        title: 'Edit User - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Edit User - PT. Ekosistem Agro Sejahtera',
       }
     },
 

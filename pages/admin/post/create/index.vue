@@ -90,7 +90,7 @@
     //meta
     head() {
       return {
-        title: 'Tambah Post - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Tambah Post - PT. Ekosistem Agro Sejahtera',
       }
     },
 

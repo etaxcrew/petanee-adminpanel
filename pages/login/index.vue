@@ -43,7 +43,7 @@
     //meta
     head() {
       return {
-        title: 'Login - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Login - PT. Ekosistem Agro Sejahtera',
       }
     },
 

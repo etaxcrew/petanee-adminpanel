@@ -67,7 +67,7 @@
     //meta
     head() {
       return {
-        title: 'Dashboard - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Dashboard - PT. Ekosistem Agro Sejahtera',
       }
     },
 

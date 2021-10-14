@@ -8,7 +8,7 @@
 
       <aside class="main-sidebar sidebar-dark-primary elevation-4">
         <a to="/admin/dashboard" class="brand-link text-center">
-          <span class="brand-text font-weight-bold">CMS - ADMINISTRATOR</span>
+          <span class="brand-text font-weight-bold">Koperasi - Petanee.id</span>
         </a>
 
         <!-- Sidebar -->
@@ -26,7 +26,7 @@
         <div class="float-right d-none d-sm-block">
           <b>Version</b> 1.0.0
         </div>
-        <strong>Copyright &copy; 2021 CMS - SANTRIKODING.</strong> All rights reserved.
+        <strong>Copyright &copy; 2021 CMS - PT. Ekosistem Agro Sejahtera.</strong> All rights reserved.
       </footer>
       <aside class="control-sidebar control-sidebar-dark">
       </aside>

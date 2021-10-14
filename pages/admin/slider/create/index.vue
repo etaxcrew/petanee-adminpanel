@@ -49,7 +49,7 @@
         //meta
     head() {
       return {
-        title: 'Tambah Slider - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Tambah Slider - PT. Ekosistem Agro Sejahtera',
       }
     },
 

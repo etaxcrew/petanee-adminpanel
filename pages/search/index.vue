@@ -34,16 +34,16 @@
     //meta
     head() {
       return {
-        title: 'Search - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Search - PT. Ekosistem Agro Sejahtera',
         meta: [{
             hid: 'og:title',
             name: 'og:title',
-            content: 'SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap'
+            content: 'PT. Ekosistem Agro Sejahtera'
           },
           {
             hid: 'og:site_name',
             name: 'og:site_name',
-            content: 'SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap'
+            content: 'PT. Ekosistem Agro Sejahtera'
           },
           {
             hid: 'og:image',

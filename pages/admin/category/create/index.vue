@@ -57,7 +57,7 @@
     //meta
     head() {
       return {
-        title: 'Tambah Category - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Tambah Category - PT. Ekosistem Agro Sejahtera',
       }
     },
 

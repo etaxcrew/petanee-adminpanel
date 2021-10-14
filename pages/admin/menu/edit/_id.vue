@@ -57,7 +57,7 @@
     //meta
     head() {
       return {
-        title: 'Edit Menu - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Edit Menu - PT. Ekosistem Agro Sejahtera',
       }
     },
 

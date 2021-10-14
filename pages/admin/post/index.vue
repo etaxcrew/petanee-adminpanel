@@ -65,7 +65,7 @@
     //meta
     head() {
       return {
-        title: 'Posts - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Posts - PT. Ekosistem Agro Sejahtera',
       }
     },
 

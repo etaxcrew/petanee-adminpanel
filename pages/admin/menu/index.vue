@@ -62,7 +62,7 @@
     //meta
     head() {
       return {
-        title: 'Menus - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: 'Menus - PT. Ekosistem Agro Sejahtera',
       }
     },
 

@@ -28,7 +28,7 @@ export default {
     //meta
     head() {
       return {
-        title: this.tag.name + ' - SantriKoding.com - Belajar Koding Bahasa Indonesia Terlengkap',
+        title: this.tag.name + ' - PT. Ekosistem Agro Sejahtera',
         meta: [
           {
             hid: 'og:title',
